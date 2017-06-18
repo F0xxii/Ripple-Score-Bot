@@ -1,0 +1,7 @@
+{
+  "extends": "aqua",
+  "rules": {
+    "indent": "off",
+    "arrow-parens": "off"
+  }
+}

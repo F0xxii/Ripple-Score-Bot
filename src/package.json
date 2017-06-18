@@ -1,0 +1,19 @@
+{
+  "name": "ripplebot",
+  "version": "1.0.0",
+  "description": "RippleBot, sends new scores to the Ripple Discord server",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^11.1.0",
+    "eslint": "^4.0.0",
+    "eslint-config-aqua": "^1.4.1",
+    "snekfetch": "^3.1.11",
+    "ws": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "n/a"
+  },
+  "author": "Foxxi",
+  "license": "MIT"
+}
